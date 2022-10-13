@@ -1,0 +1,20 @@
+ISSUES 1: Unprofessional, Dated Design.
+ISSUES 2: Having a Poor On-site Search Engine:
+                         =>No data-based product suggestions.
+                         =>Search Autocomplete is not typo tolerant.
+                         =>Autocomplete is too slow.
+                         =>No category suggestions, photos or prices during sales events.
+                         =>Wrong handling of singular/plural words.
+                         =>Not handling zero results pages as opportunities.
+ISSUES 3: Bad User Experience.
+ISSUES 4: The Lack of Personalization.
+ISSUES 5: Missing or Unclear Product Information.
+ISSUES 6: Bad / No persuasive sales copy.  
+ISSUES 7: Missing or fake product reviews.
+ISSUES 8: Too Complex Check-out process.   
+ISSUES 9:  Payment failures (and uncertainty).
+ISSUES 10: Lack of Security and Privacy Leaks.
+ISSUES 11: Additional charges.                                               
+ISSUES 12: Poor Tracking, Logistics and Long Delivery.
+ISSUES 13: Not having a flexible return policy.
+ISSUES 14: Lack of Support and No Live Chat opportunity.
