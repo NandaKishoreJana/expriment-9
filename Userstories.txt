@@ -1,0 +1,22 @@
+CASE STUDY: ONLINE SHOPPING AND RECHARGE
+
+India is moved into digital world after banned of Rs.500/- and Rs.1000/- notes. At present all the citizens of India is moving to use online facility for purchasing products and rech-
+-arge for their mobile and DTH connections. The customer who needs do online transactions needs to register. This registration is required for only one time. During registration 
+the customer needs to give username, password, name, address, phone number and other information which require for transaction. Those who need not required for registrati-
+-on, that customer will become as guest for that transaction. Once the transaction is completed by the guest, later he cannot access the transaction details. The customer who 
+have registered, he/she can access account. He/she can purform all variety of transactions like, online shopping, mobile recharge, DTH recharges etc. These transaction can per-
+-form in multiple ways.
+
+Product purchase: 
+
+One method is customer can directly add certain amount to online transaction account. From that account customer can perform transactions in real time basis. Another method 
+is after identifying product customer can pay amount through online banking/ credit card/ debit card. The online portal having various products which have product ID, product 
+name, images of the product. As per the selection of product, the similar product needs to be displayed. The customer will identify one product and process for further transacti-
+-on. After purchasing a product, the customer can verify the transaction details, and track the product. Once the delivery of the product, the customer can verify the product and 
+they not satisfied they not satisfied they can return back the product. The money will not be transferred to bank account.
+
+Recharge of a mobile/DTH: 
+
+The customer can type mobile number, select operator, the system needs to displays the all plans available for the specfic mobile/operator. After selection of all the above, custo-
+-mer can pay amount in any of mode mentioned in the above.
+ 
